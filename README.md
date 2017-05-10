@@ -1,0 +1,2 @@
+# AlternateIconDemo
+change app icon
